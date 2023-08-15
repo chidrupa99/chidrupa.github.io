@@ -90,3 +90,13 @@ body {
 .card-body {
     font-size: 14px;
 }
+
+.full-width-image {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    height: auto;
+    z-index: -1; /* Place image behind content */
+}
