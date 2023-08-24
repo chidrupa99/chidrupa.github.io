@@ -163,26 +163,26 @@
 }
 
 .projects_div{
-    width: 800px;
+    width: 1000px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin: auto;
 }
 .project_card {
-    width: 350px !important;
+    width: 450px !important;
     display: inline-block;
     text-align: left;
     
 }
 .project_card img{
-    width: 350px;
+    width: 450px;
     height: auto;
     border-radius: 5px;
 }
 
 .project_card img:hover{
-    width: 355px;
+    width: 455px;
     transition: 0.5s;
 }
 
